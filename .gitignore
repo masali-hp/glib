@@ -1,0 +1,10 @@
+*.obj
+*.idb
+*.pdb
+*.db
+*.opendb
+*.suo
+*.pc
+win32/*.pyc
+**/obj/*
+**/bin/*
